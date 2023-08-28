@@ -12,20 +12,18 @@ Tìm những từ loại tương đương ở hai ngôn ngữ để dịch - g�
     Đồng vị là hiện tượng hai danh từ đứng kế nhau và cùng chỉ một đối tượng
 
 
-Để xác định được 2 danh từ cùng chỉ một đối tượng cần dựa vào bối cảnh, hoàn cảnh, tình huống [context] để  xác định được hiện tượng đồng vị 
-
-Trong Pali người ta có thể mô tả tôi đi đến A và đến B mà không cần liên từ, nghĩa là chỉ cần nói 
-
-A B gacchami
-mà không cần dùng liên từ VÀ HOẶC [AND OR]
-
-
-Liên từ trong PāLi cũng có, đó là CA VĀ 
-nhưng nguời ta có thể không dùng 
+Để xác định được hai danh từ cùng chỉ một đối tượng cần dựa vào bối cảnh, hoàn cảnh, tình huống [context] 
 
     Bối cảnh là tất cả những gì xoay quanh đối tượng, tình huống xảy ra xung quanh đối tuợng đuợc nói đến 
 
-**NGUYÊN TẮC: PHẢI CÓ BỐI CẢNH CỤ THỂ**
+
+Trong Pali người ta có thể mô tả tôi đi đến A và đến B mà không cần liên từ, nghĩa là chỉ cần nói 
+
+>A B gacchami
+
+Như vậy, nếu xác định được A và B cùng chỉ một đối tượng, thì đây là hiện tượng đồng vị, nhưng nếu A và B không cùng chỉ môt đối tượng thì câu trên có nghĩa là tôi đi đến A và đi đến B.
+
+***NGUYÊN TẮC DỊCH THUẬT: PHẢI CÓ BỐI CẢNH CỤ THỂ***
 
 **2. Hơp âm**
 ---
@@ -62,3 +60,4 @@ Saṃvattati: Đưa tới, Dẫn tới (Động từ, hiện tại, chủ độn
     Gián bổ cách chỉ đích đến 
     Dativef of Destination
 
+    

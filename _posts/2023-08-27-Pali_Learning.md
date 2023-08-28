@@ -37,13 +37,27 @@ Khi viết người ta mới có phân tách từng từ, còn khi nói, lời n
 
 Trong tiếng Anh, khi nối âm, người ta chỉ nối trên văn nói, viết vẫn được tách ra từng từ. Nhưng Pali, cả trên chữ viết người ta cũng thể hiện sự nối âm này
 
-Quan điểm nghiên cứu:
-Có hai quan điểm nghiên cứu 
+>Về '[Quan điểm nghiên cứu:
+>>Có hai quan điểm nghiên cứu 
 1. ***Prescriptive:*** Nên hay không nên ___Nguời ta hình dung ngôn ngữ nên như thế này mà không nên như thế  khác 
 2. ***Descriptove:*** Mô tả ___có sao nói vậy, không áp đặt. không có nên hay không nên.
    
 
+**3. Luật hướng-dẫn Ngữ-pháp trọng Yếu**
+---
+- Trong văn viết, với hầu hết trường hợp, người ta biểu đạt một ý tưởng trọn vẹn bằng một câu. 
 
+- Trong câu PHẢI có động từ chính (Động từ này có thể giản lược, bị ẩn, nhưng về mặt ngữ nghĩa, nó vẫn có ở đó)
 
+- Một từ trong câu PHẢI thuộc về một trong 7 loại từ: Danh từ, Động từ, Tính từ, Trạng từ, Phụ từ, Giới từ, Liên từ.
 
+## Giải nghĩa đoạn kinh thứ 2 trong giáo trình
+### Tính từ Pali 
+>Tính từ: Chỉ một đặc tính, thuộc tính nào đó của danh từ. Tính từ không thể đứng riêng, nó phải bổ nghĩa cho danh từ. Nhưng do trật tự câu Pali không nhất định, nên tính từ có thể đứng cách xa danh từ mà nó bổ nghĩa. 
+>>Tính từ có 3 điểm giống với danh từ mà nó bổ nghĩa: (1) Cùng Tính (2) Cùng Số (3) Cùng cách
+
+Saṃvattati: Đưa tới, Dẫn tới (Động từ, hiện tại, chủ động)
+Động từ mang ý niệm di chuyển, có thể kết hợp với danh từ ở Gián Bổ cách để chỉ đích đến 
+
+    Gián bổ cách chỉ đích đến 
 

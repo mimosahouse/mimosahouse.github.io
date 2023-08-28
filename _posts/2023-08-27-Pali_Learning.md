@@ -60,4 +60,5 @@ Saṃvattati: Đưa tới, Dẫn tới (Động từ, hiện tại, chủ độn
 Động từ mang ý niệm di chuyển, có thể kết hợp với danh từ ở Gián Bổ cách để chỉ đích đến 
 
     Gián bổ cách chỉ đích đến 
+    Dativef of Destination
 

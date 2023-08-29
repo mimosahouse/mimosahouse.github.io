@@ -22,7 +22,10 @@ title: a blog of the mimosahose
 
 description: >- # this means to ignore newlines until "baseurl:"
   Một chút về PaLi và việc học PaLi 
+
 twitter_username: tuoitrelacloi
+
+show_downloads: false
 
 # Build settings
 #######################################
@@ -31,6 +34,7 @@ twitter_username: tuoitrelacloi
 #  - jekyll-feed
 #######################################
 remote_theme: pages-themes/leap-day@v0.2.0
+
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 

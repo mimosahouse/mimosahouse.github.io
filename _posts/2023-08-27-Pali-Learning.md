@@ -61,4 +61,4 @@ Saṃvattati: Đưa tới, Dẫn tới (Động từ, hiện tại, chủ độn
     Dative of Destination
 
     
->31. “nāhaṃ, bhikkhave, aññaṃ ekadhammampi samanupassāmi yaṃ evaṃ adantaṃ mahato anatthāya saṃvattati yathayidaṃ, bhikkhave, cittaṃ. cittaṃ, bhikkhave, adantaṃ mahato anatthāya saṃvattatī”ti.
+>31. “nāhaṃ, bhikkhave, aññaṃ ekadhammampi samanupassāmi yaṃ evaṃ adantaṃ mahato anatthāya saṃvattati yathayidaṃ, bhikkhave, cittaṃ. Cittaṃ, bhikkhave, adantaṃ mahato anatthāya saṃvattatī”ti.

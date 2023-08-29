@@ -19,13 +19,10 @@
 # in the templates via {{ site.myvariable }}.
 
 title: a blog of the mimosahose 
-
 description: >- # this means to ignore newlines until "baseurl:"
   Một chút về PaLi và việc học PaLi 
-
 twitter_username: tuoitrelacloi
-
-show_downloads: false
+#show_downloads: false
 
 # Build settings
 #######################################

@@ -35,7 +35,7 @@ Khi viết người ta mới có phân tách từng từ, còn khi nói, lời n
 
 Trong tiếng Anh, khi nối âm, người ta chỉ nối trên văn nói, viết vẫn được tách ra từng từ. Nhưng Pali, cả trên chữ viết người ta cũng thể hiện sự nối âm này
 
->Về '[Quan điểm nghiên cứu:
+>Về Quan điểm nghiên cứu:
 >>Có hai quan điểm nghiên cứu 
 1. ***Prescriptive:*** Nên hay không nên ___Nguời ta hình dung ngôn ngữ nên như thế này mà không nên như thế  khác 
 2. ***Descriptove:*** Mô tả ___có sao nói vậy, không áp đặt. không có nên hay không nên.
@@ -61,3 +61,4 @@ Saṃvattati: Đưa tới, Dẫn tới (Động từ, hiện tại, chủ độn
     Dative of Destination
 
     
+>31. “nāhaṃ, bhikkhave, aññaṃ ekadhammampi samanupassāmi yaṃ evaṃ adantaṃ mahato anatthāya saṃvattati yathayidaṃ, bhikkhave, cittaṃ. cittaṃ, bhikkhave, adantaṃ mahato anatthāya saṃvattatī”ti.

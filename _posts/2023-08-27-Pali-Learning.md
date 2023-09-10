@@ -61,7 +61,7 @@
 
 **Từ vựng đoạn kinh 1**
 
->1 | Buddho | A Buddha, the person who was reached enlightment, Đức Phật, bậc Giác-Ngộ | Danh, nam
+Buddho | A Buddha, the person who was reached enlightment, Đức Phật, bậc Giác-Ngộ | Danh, nam
 
     Trong đoạn kinh trên, Buddha được biến cách sang dạng Buddhaṃ - đây là TBB của Buddho, 
 
